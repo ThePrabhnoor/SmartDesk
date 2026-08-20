@@ -1,0 +1,17 @@
+# Firebase Service Account (Sensitive)
+*serviceAccountKey.json
+
+Firebase/admin_config.js
+
+# Node
+node_modules/
+.npm/
+
+# Mac
+.DS_Store
+
+# Secrets
+secrets.h
+
+# Docs
+Docs/

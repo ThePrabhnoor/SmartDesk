@@ -1,0 +1,6 @@
+{
+  "rules": {
+    ".read": "auth != null && auth.token.email == 'esp32@smartdesk.local'",
+    ".write": "auth != null && auth.token.email == 'esp32@smartdesk.local'"
+  }
+}

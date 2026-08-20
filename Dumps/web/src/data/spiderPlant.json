@@ -1,0 +1,39 @@
+{
+  "name": "Spider Plant",
+  "scientificName": "Chlorophytum comosum",
+  "type": "Indoor foliage plant",
+  "difficulty": "Easy",
+  "idealEnvironment": {
+    "temperature": {
+      "min": 18,
+      "max": 27,
+      "unit": "C"
+    },
+    "humidity": {
+      "min": 40,
+      "max": 70,
+      "unit": "%"
+    },
+    "soil": "Well-draining indoor potting mix",
+    "potDrainageRequired": true
+  },
+  "wateringRules": {
+    "preferredMoisture": "evenly moist",
+    "dryingRequirement": "top 2-3 cm should dry slightly before watering",
+    "warnings": [
+      "Never allow soil to remain soggy.",
+      "Avoid root rot.",
+      "Avoid prolonged drought."
+    ],
+    "targetMoisturePercent": 60,
+    "criticalMoisturePercent": 20,
+    "overwateredMoisturePercent": 85
+  },
+  "plantFacts": {
+    "growthSeason": "Spring and Summer",
+    "dormancy": "Winter",
+    "petSafety": "Safe for cats and dogs (non-toxic)",
+    "fertilizerReminder": "Every 2-4 weeks during growing season",
+    "repotReminder": "When roots are visible on the surface or pushing the plant up"
+  }
+}
